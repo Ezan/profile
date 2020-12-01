@@ -5,7 +5,6 @@
  */
 
 module.exports = {
-  pathPrefix: "/profile",
   siteMetadata: {
     title: `Ejan Shakya | Software Engineer`,
     author: `Ejan Shakya`,
