@@ -10,7 +10,7 @@ module.exports = {
     title: `Ejan Shakya | Software Engineer`,
     author: `Ejan Shakya`,
     description: `A Software Engineer/Developer, a research enthusiast aiming to contribute in the field of paradigmatic Human-Computer Interaction, Artificial Intelligence and Machine Learning.`,
-    siteUrl: ``,
+    siteUrl: `https://ezan.github.io/profile/`,
   },
   plugins: [
     {
