@@ -11,20 +11,16 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Mobile/Web App Development",
-          "percent": 80
-        },
-        {
           "name": "Frontend Development",
           "percent": 80
         },
         {
-          "name": "Artificial Intelligence",
-          "percent": 50
+          "name": "Backend Development",
+          "percent": 40
         },
         {
-          "name": "UI Design",
-          "percent": 40
+          "name":"Android Development",
+          "percent":50
         }
       ]
     },
@@ -78,12 +74,6 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Jira"
-        },
-        {
-          "name": "Twilio"
-        },
-        {
           "name": "Microsoft Office Suite"
         },
         {
@@ -110,7 +100,7 @@
       ]
     }
   ],
-  "summary": "A Software Engineer/Developer, a research enthusiast aiming to contribute in the field of paradigmatic Human-Computer Interaction, Artificial Intelligence and Machine Learning.",
+  "summary": "A Software Engineer/Developer, a research enthusiast aiming to contribute in the field of Human-Computer Interaction, Artificial Intelligence and Machine Learning.",
   "education": [
     {
       "institution": "Kathmandu University, Nepal",
